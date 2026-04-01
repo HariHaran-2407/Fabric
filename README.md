@@ -75,7 +75,8 @@ Processed data is saved as **Delta tables** in the Silver Lakehouse.
 ## Lineage
 
 ### Raw Data Ingestion Lineage
-<img width="1479" height="618" alt="Screenshot 2026-04-01 212048" src="https://github.com/user-attachments/assets/b3687dd7-edc6-4c0c-bafe-c28efeec130b" />
+<img width="1653" height="636" alt="Screenshot 2026-04-01 212022" src="https://github.com/user-attachments/assets/35658bdc-31c7-4163-bc7a-d888b060ae96" />
+
 
 ### Overall Pipeline Lineage
 <img width="1436" height="629" alt="Screenshot 2026-04-01 212100" src="https://github.com/user-attachments/assets/21f7566b-385c-49d7-8a5f-641844a7173d" />
